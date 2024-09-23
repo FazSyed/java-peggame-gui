@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AAA",
+            "request": "launch",
+            "mainClass": "ABC.AAA",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "BBB",
+            "request": "launch",
+            "mainClass": "ABC.BBB",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "CCC",
+            "request": "launch",
+            "mainClass": "ABC.CCC",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "ConvertedXX",
+            "request": "launch",
+            "mainClass": "ABC.ConvertedXX",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "ABC.TicTacToe",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "XX",
+            "request": "launch",
+            "mainClass": "ABC.XX",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "YYY",
+            "request": "launch",
+            "mainClass": "ABC.YYY",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "ZZZ",
+            "request": "launch",
+            "mainClass": "ABC.ZZZ",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "CheckersBoard",
+            "request": "launch",
+            "mainClass": "Checkers.CheckersBoard",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Board",
+            "request": "launch",
+            "mainClass": "Checkers_Pegs.Board",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "CheckersBoard(1)",
+            "request": "launch",
+            "mainClass": "Checkers_Pegs.CheckersBoard",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Extra2",
+            "request": "launch",
+            "mainClass": "Checkers_Pegs.Extra2",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "PegGameApp",
+            "request": "launch",
+            "mainClass": "EFG.PegGameApp",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Extra",
+            "request": "launch",
+            "mainClass": "Extra",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Board(1)",
+            "request": "launch",
+            "mainClass": "PegGameGUI.Board",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "PegGameGUI",
+            "request": "launch",
+            "mainClass": "PegGameGUI.PegGameGUI",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Board(2)",
+            "request": "launch",
+            "mainClass": "PegGameV.Board",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "CheckersBoard(2)",
+            "request": "launch",
+            "mainClass": "PegGameV.CheckersBoard",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "PegGameGUI(1)",
+            "request": "launch",
+            "mainClass": "TRIAL.PegGameGUI",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "PegGameMoves",
+            "request": "launch",
+            "mainClass": "TRIAL.PegGameMoves",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Project1Main",
+            "request": "launch",
+            "mainClass": "TRIAL.Project1Main",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "SquareBoard",
+            "request": "launch",
+            "mainClass": "TRIAL.SquareBoard",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Board(3)",
+            "request": "launch",
+            "mainClass": "peggame.Board",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "PegGameMoves(1)",
+            "request": "launch",
+            "mainClass": "peggame.PegGameMoves",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "Project1Main(1)",
+            "request": "launch",
+            "mainClass": "peggame.Project1Main",
+            "projectName": "Assignment1_7ff104c1"
+        },
+        {
+            "type": "java",
+            "name": "SquareBoard(1)",
+            "request": "launch",
+            "mainClass": "peggame.SquareBoard",
+            "projectName": "Assignment1_7ff104c1"
+        }
+    ]
+}
